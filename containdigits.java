@@ -1,6 +1,6 @@
 package Programming2;
 
-public class Countingduplicate {
+public class containdigits {
 
    public static void main(String[] args){
 		String str = "2357897890";
